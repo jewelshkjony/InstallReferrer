@@ -63,7 +63,7 @@ This event will be triggered when the extension failed to get referrer details.
 ## Extension specifications:
 * **
 
-<img src="https://raw.githubusercontent.com/jewelshkjony/InstallReferrer/main/images/download.png"/> <a href="">com.jewel.installreferrer.aix</a> (24.2 KB)
+<img src="https://raw.githubusercontent.com/jewelshkjony/InstallReferrer/main/images/download.png"/> <a href="https://github.com/jewelshkjony/InstallReferrer/releases/download/v2.2/com.jewel.installreferrer.aix">com.jewel.installreferrer.aix</a> (24.2 KB)
 **SDK Version:** 2.2\
 **Last amendment:** 07 August 2022
 * **
